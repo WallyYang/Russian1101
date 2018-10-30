@@ -1,0 +1,24 @@
+* Vocabulary
+** Table of Contents
+
+** Colours
+| Русский    | English        | Chinese |
+|------------+----------------+---------|
+| красный    | red            | 红色    |
+| оранжевый  | orange         | 橙色    |
+| жёлтый     | yellow         | 黄色    |
+| зелёный    | green          | 绿色    |
+| голубой    | (light) blue   | 浅蓝色  |
+| синий      | (dark) blue    | 深蓝色  |
+| фиолетовый | violet; purple | 紫色    |
+| розовый    | pink           | 粉色    |
+| чёрный     | black          | 黑色    |
+| белый      | white          | 白色    |
+| серый      | grey           | 灰色    |
+| бежевый    | beige          | 米色    |
+| коричневый | brown          | 棕色    |
+
+** Clothes
+| Русский | English | Chinese |
+|---------+---------+---------|
+|         |         |         |
