@@ -40,11 +40,14 @@
 | кровать | bed      | 床      |
 
 ** Electronics
-| Русский   | English | Chinese |
-|-----------+---------+---------|
-| компьютер |         |         |
-| ноутбук   |         |         |
-|           |         |         |
+| Русский   | English          | Chinese    |
+|-----------+------------------+------------|
+| компьютер | computer         | 电脑       |
+| ноутбук   | laptop           | 笔记本电脑 |
+| принтер   | printer          | 打印机     |
+| телевизор | television       | 电视       |
+| колонки   | acoustic systems | 声学系统   |
+| радио     | radio            | 无线电     |
 
 ** Stationery
 | Русский | English | Chinese |
