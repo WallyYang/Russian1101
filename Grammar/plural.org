@@ -1,2 +1,31 @@
 * Plural
-** 
+** 'а' and Hard Consonant
+   - if the noun ends with *а*, replace it with *ы*
+     - Examples:
+       - газета -> газеты
+   - if the noun ends with *hard consonsant*, add *ы*
+     - Examples:
+       - компьютер -> компьютеры
+** 'я' and Soft Consonant
+   - if the noun ends with *я* or *soft consonsant (soft sign ь or й)*
+      replace it with *и*
+     - Examples:
+       - дверь -> двери
+** 'о'
+   - if the noun ends with *о*, replace it with *а*
+     - Examples:
+       - окно -> окна
+** 'e'
+   - if the noun ends with *е*, replace it with *я*
+     - Examples:
+       - платье -> платья
+** Exceptions: 7-Letter Rule
+   - consonsants *г*, *к*, *х*, *ж*, *ш*, *ч* and *щ*, always followed by *и*
+     - Examples:
+       - блузка -> блузки
+** Exceptions: Special Words
+   - these are random words with random plural forms
+     - стул -> стулья
+     - свитер -> свитера
+     - пальто -> пальто
+     - радио -> радио
