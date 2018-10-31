@@ -1,0 +1,23 @@
+* Gender of Nouns
+** Masculine
+   - Masculine Nouns ends with a *consonsant* or *й*
+   - Examples:
+     - стол
+     - стул
+** Feminine
+   - Feminine nouns end with a *а* or *я*
+   - Examples:
+     - машина
+     - газета
+** Neuter
+   - Neuter nouns end with a *о* or *е*
+   - Examples:
+     - платье
+     - пальто
+** Words End with soft sign (ь)
+   - Nouns end with soft sign *ь* can either be *Masculine* or *Feminine*
+     This is a category of all such nouns in the class so far
+   - Masculine:
+     - 
+   - Feminine:
+     - кровать
