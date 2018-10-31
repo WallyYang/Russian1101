@@ -23,11 +23,40 @@
 | бежевый    | beige          | 米色    |
 | коричневый | brown          | 棕色    |
 
-** Clothes
-| Русский | English | Chinese |
-|---------+---------+---------|
-| платье  |         |         |
-| пальто  |         |         |
+** (Oдежла) Clothes
+| Русский   | English                 | Chinese |
+|-----------+-------------------------+---------|
+| блузка    | blouse                  | 女衬衫  |
+| юбка      | skirt                   | 短裙    |
+| пиджак    | coat, jacket            | 夹克    |
+| рубашка   | shirt                   | 衬衫    |
+| брюки     | trousers; pants         | 裤子    |
+| обувь     | shoes                   | 鞋      |
+| туфли     | shoes                   | 鞋      |
+| ботинки   | boots                   | 靴子    |
+| галстук   | tie                     | 领带    |
+| ремень    | belt                    | 腰带    |
+| свитер    | sweater, pullover       | 毛线衣  |
+| майка     | sleeveless sports shirt | 衬衫    |
+| футболка  | sports shirt            | T恤衫   |
+| платье    | clothes                 | 连衣裙  |
+| куртка    | jacket                  | 夹克    |
+| пальто    | coat                    | 外套    |
+| джинсы    | jeans                   | 牛仔裤  |
+| носки     | socks                   | 袜子    |
+| кроссовки | running shoes           | 运动鞋  |
+| сапоги    | (high) boots            | 靴子    |
+| шапка     | cap                     | 帽子    |
+| костюм    | suit                    | 西装    |
+
+** Wear
+| Русский | English    | Chinese |
+|---------+------------+---------|
+| очки    | eyeglasses | 眼镜    |
+| часы    | watch      | 时钟    |
+| тапочки | slippers   | 拖鞋    |
+| сумка   | (hand) bag | 包      |
+| рюкзак  | rucksack   | 背包    |
 
 ** Furnitures
 | Русский | English  | Chinese |
