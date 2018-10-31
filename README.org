@@ -1,5 +1,5 @@
 * Russian 1101.01
 ** Table of Contents
    - Grammar
-     - [[./Grammar/gender.orgg][Gender]]
+     - [[./Grammar/gender.org][Gender]]
    - [[./vocab.org][Vocabulary]]
