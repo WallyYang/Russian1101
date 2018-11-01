@@ -28,7 +28,7 @@
      - старое
      - маленкое
      - большое
-   - 5-letter rule: for stems end with *г*, *к*, *х*, *ж*, *ш*, *ч* and *щ*, 
+   - 5-letter rule: for stems end with *ш*, *щ*, *ж*, *ч* and *ц*, if the ending is stressed, 
      use *ее* instead, examples:
      - хорошее
    - for stems end with *н*, use *ее* instead, examples:
