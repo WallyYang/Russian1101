@@ -1,0 +1,9 @@
+* Soft Consonants (Мягкая)
+  - Consonants followed by these vowels are soft (Мягкая):
+    - ь
+    - я
+    - ю
+    - е
+    - ё
+    - и
+  - й is soft
