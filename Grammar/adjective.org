@@ -1,3 +1,45 @@
 * Adjective
-** Masculine Words Ends with 'ый', 'ий' or 'ой'
-** 
+** Masculine Ends with 'ый', 'ий' or 'ой'
+   - Usually masculine adjectives end with *ый*, examples:
+     - красивый
+     - старый
+   - 7-letter rule: for stems end with *г*, *к*, *х*, *ж*, *ш*, *ч* and *щ*, 
+     use *ий* instead, examples:
+     - маленкий
+     - хороший
+   - 5-letter rule: for stems end with *ш*, *щ*, *ж*, *ч* and *ц*, if the ending is stressed, 
+     use *ой* instead, examples:
+     - большой
+   - for stems end with *н*, use *ий* instead, examples:
+     - синий
+** Feminie Ends with 'ая' and 'яя'
+   - Usually feminine adjectives end with *ая*, examples:
+     - красивая
+     - старая
+     - маленкая
+     - хорошая
+     - большая
+     - плохая
+   - for stems end with *н*, use *яя* instead, examples:
+     - синяя
+** Neuter Ends with 'ое' and 'ее'
+   - Usually neuter adjectives end with *ое*, examples:
+     - красивое
+     - старое
+     - маленкое
+     - большое
+   - 5-letter rule: for stems end with *г*, *к*, *х*, *ж*, *ш*, *ч* and *щ*, 
+     use *ее* instead, examples:
+     - хорошее
+   - for stems end with *н*, use *ее* instead, examples:
+     - синее
+** Plural Ends with 'ые' and 'ие'
+   - Usually plural adjectives end with *ые*, examples:
+     - красивые
+     - старые
+   - 7-letter rule: for stems end with  *г*, *к*, *х*, *ж*, *ш*, *ч* and *щ*, 
+     use *ие* instead, examples:
+     - маленкие
+     - хорошие
+     - большие
+     - плохие
