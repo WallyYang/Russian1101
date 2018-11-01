@@ -1,6 +1,7 @@
 * Russian 1101.01
 ** Table of Contents
    - Grammar
+     - [[./Grammar/soft.org][Soft Consonants]]
      - [[./Grammar/gender.org][Grammatical Gender]]
      - [[./Grammar/possessive.org][Possessive Pronouns]]
      - [[./Grammar/plural.org][Plural]]
