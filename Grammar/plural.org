@@ -7,10 +7,11 @@
      - Examples:
        - компьютер -> компьютеры
 ** 'я' and Soft Consonant
-   - if the noun ends with *я* or *soft consonsant (soft sign ь or й)*
-      replace it with *и*
+   - if the stem ends with *soft consonsant (see [[./soft.org][Soft Consonants]])*
+      add a *и* to the stem
      - Examples:
        - дверь -> двери
+   - if the noun ends with *я*, replace it with *и*
 ** 'о'
    - if the noun ends with *о*, replace it with *а*
      - Examples:
