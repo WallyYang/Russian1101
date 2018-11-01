@@ -5,4 +5,5 @@
      - [[./Grammar/gender.org][Grammatical Gender]]
      - [[./Grammar/possessive.org][Possessive Pronouns]]
      - [[./Grammar/plural.org][Plural]]
+     - [[./Grammar/adjective.org][Adjective]]
    - [[./vocab.org][Vocabulary]]
