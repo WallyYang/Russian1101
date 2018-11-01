@@ -1,0 +1,11 @@
+* Possessive Pronouns
+|                              | Он | Она | Оно | Они |
+|------------------------------+----+-----+-----+-----|
+| Whose                        |    |     |     |     |
+| My                           |    |     |     |     |
+| Your (informal and singular) |    |     |     |     |
+| Your (formal or plural)      |    |     |     |     |
+| Our                          |    |     |     |     |
+| His                          |    |     |     |     |
+| Her                          |    |     |     |     |
+| Their                        |    |     |     |     |
