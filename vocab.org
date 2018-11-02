@@ -23,78 +23,98 @@
 | бежевый    | beige          | 米色    |
 | коричневый | brown          | 棕色    |
 
-** (Oдежла) Clothes
-| Русский   | English                 | Chinese |
-|-----------+-------------------------+---------|
-| блузка    | blouse                  | 女衬衫  |
-| юбка      | skirt                   | 短裙    |
-| пиджак    | coat, jacket            | 夹克    |
-| рубашка   | shirt                   | 衬衫    |
-| брюки     | trousers; pants         | 裤子    |
-| обувь     | shoes                   | 鞋      |
-| туфли     | shoes                   | 鞋      |
-| ботинки   | boots                   | 靴子    |
-| галстук   | tie                     | 领带    |
-| ремень    | belt                    | 腰带    |
-| свитер    | sweater, pullover       | 毛线衣  |
-| майка     | sleeveless sports shirt | 衬衫    |
-| футболка  | sports shirt            | T恤衫   |
-| платье    | clothes                 | 连衣裙  |
-| куртка    | jacket                  | 夹克    |
-| пальто    | coat                    | 外套    |
-| джинсы    | jeans                   | 牛仔裤  |
-| носки     | socks                   | 袜子    |
-| кроссовки | running shoes           | 运动鞋  |
-| сапоги    | (high) boots            | 靴子    |
-| шапка     | cap                     | 帽子    |
-| костюм    | suit                    | 西装    |
+** (Oдежла) Clothing
+| Русский   | English        | Chinese |
+|-----------+----------------+---------|
+| блузка    | blouse         | 女衬衫  |
+| ботинки   | shoes          | 靴子    |
+| брюки     | pants          | 裤子    |
+| галстук   | tie            | 领带    |
+| джинсы    | jeans          | 牛仔裤  |
+| костюм    | suit           | 西装    |
+| кроссовки | athletic shoes | 运动鞋  |
+| куртка    | short jacket   | 夹克    |
+| майка     | T-shirt        | 衬衫    |
+| носки     | socks          | 袜子    |
+| очки      | eyeglasses     | 眼镜    |
+| пальто    | overcoat       | 外套    |
+| пиджак    | suit jacket    | 夹克    |
+| платье    | dress          | 连衣裙  |
+| рубашка   | shirt          | 衬衫    |
+| сапоги    | boots          | 靴子    |
+| свитер    | sweater        | 毛线衣  |
+| тапочки   | slippers       | 拖鞋    |
+| туфли     | shoes          | 鞋      |
+| футболка  | T-shirt        | T恤衫   |
+| часы      | watch          | 时钟    |
+| шапка     | cap            | 帽子    |
+| юбка      | skirt          | 短裙    |
+| обувь     | shoes          | 鞋      |
+| ремень    | belt           | 腰带    |
 
 ** Wear
-| Русский | English    | Chinese |
-|---------+------------+---------|
-| очки    | eyeglasses | 眼镜    |
-| часы    | watch      | 时钟    |
-| тапочки | slippers   | 拖鞋    |
-| сумка   | (hand) bag | 包      |
-| рюкзак  | rucksack   | 背包    |
-
-** Furnitures
 | Русский | English  | Chinese |
 |---------+----------+---------|
-| окно    | window   | 窗户    |
-| дверь   | door     | 门      |
-| стол    | table    | 桌子    |
-| стул    | chair    | 椅子    |
-| шкаф    | wardrobe | 衣柜    |
-| кровать | bed      | 床      |
+| сумка   | bag      | 包      |
+| рюкзак  | backpack | 背包    |
+| чемодан | suitcase | 手提箱  |
 
-** Electronics
-| Русский   | English          | Chinese    |
-|-----------+------------------+------------|
-| компьютер | computer         | 电脑       |
-| ноутбук   | laptop           | 笔记本电脑 |
-| принтер   | printer          | 打印机     |
-| телевизор | television       | 电视       |
-| колонки   | acoustic systems | 声学系统   |
-| радио     | radio            | 无线电     |
+** Furnitures
+| Русский     | English      | Chinese |
+|-------------+--------------+---------|
+| окно        | window       | 窗户    |
+| дверь       | door         | 门      |
+| стол        | table        | 桌子    |
+| стул        | chair        | 椅子    |
+| шкаф        | wardrobe     | 衣柜    |
+| кровать     | bed          | 床      |
+
+** Техника (Gadgets)
+| Русский     | English      | Chinese    |
+|-------------+--------------+------------|
+| видеокамера | video camera | 摄录一体机 |
+| колонки     | speakers     | 扩音器     |
+| компьютер   | computer     | 电脑       |
+| ноутбук     | laptop       | 笔记本电脑 |
+| плеер       | player       | 播放机     |
+| принтер     | printer      | 打印机     |
+| радио       | radio        | 无线电     |
+| телевизор   | television   | 电视       |
+| телефон     | telephon     | 电话       |
+| фотоаппарат | camera       | 相机       |
+| фотография  | photo        | 照片       |
 
 ** Stationery
-| Русский | English | Chinese |
-|---------+---------+---------|
-| газета  |         |         |
+| Русский  | English    | Chinese |
+|----------+------------+---------|
+| газета   | newspaper  | 报纸    |
+| журнал   | magazine   | 杂志    |
+| карандаш | pencil     | 铅笔    |
+| книга    | book       | 书      |
+| письмо   | letter     | 信      |
+| ручка    | pen        | 笔      |
+| словарь  | dictionary | 字典    |
+| тетрадь  | notebook   | 笔记本  |
+| учебник  | textbook   | 教科书  |
 
 ** Adjectives
-| Русский  | English | Chinese |
-|----------+---------+---------|
-| сторый   | old     | 老的    |
-| новый    | new     | 新的    |
-| хороший  | good    | 好的    |
-| плохой   | bad     | 不好的  |
-| большой  | big     | 大的    |
-| маленкий | small   | 小的    |
+| Русский      | English     | Chinese |
+|--------------+-------------+---------|
+| американский | American    | 美国的  |
+| большой      | large       | 大的    |
+| интересный   | interesting | 有趣    |
+| красивый     | pretty      | 美丽    |
+| маленкий     | small       | 小的    |
+| новый        | new         | 新的    |
+| плохой       | bad         | 不好的  |
+| русский      | Russian     | 俄国的  |
+| сторый       | old         | 老的    |
+| хороший      | good        | 好的    |
 
 ** Others
 | Русский | English | Chinese |
 |---------+---------+---------|
 | машина  | car     | 汽车    |
 | подарок | present | 礼物    |
+| дом     | home    | 房子    |
+| комната | room    | 房间    |
