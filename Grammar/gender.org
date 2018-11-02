@@ -20,7 +20,9 @@
       such nouns in the class so far. 
    - Masculine:
      - ремень
+     - cловарь
    - Feminine:
      - кровать
      - обувь
+     - тетрадь
      - дверь
