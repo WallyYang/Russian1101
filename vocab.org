@@ -1,6 +1,14 @@
 * Vocabulary
 ** Table of Contents
-
+** Verbs
+| Русский  | English  | Chinese |
+|----------+----------+---------|
+| говорить | to speak |         |
+| знать    | to know  |         |
+** Adverbs
+| Русский | English  | Chinese |
+|---------+----------+---------|
+| немного | a little |         |
 ** Nationality
 | English | Chinese | Русский | Male       | Female      | Plural     | Female Plural | Language    |
 |---------+---------+---------+------------+-------------+------------+---------------+-------------|
